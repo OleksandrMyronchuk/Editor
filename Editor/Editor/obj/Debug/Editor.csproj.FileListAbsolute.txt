@@ -1,0 +1,8 @@
+c:\users\alexander\documents\visual studio 2015\Projects\Editor\Editor\bin\Debug\Editor.exe
+c:\users\alexander\documents\visual studio 2015\Projects\Editor\Editor\bin\Debug\Editor.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2015\Projects\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2015\Projects\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2015\Projects\Editor\Editor\obj\Debug\Editor.exe
+c:\users\alexander\documents\visual studio 2015\Projects\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\Alexander\documents\visual studio 2015\Projects\Editor\Editor\obj\Debug\Editor.Form1.resources
