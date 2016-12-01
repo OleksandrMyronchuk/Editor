@@ -1,0 +1,2 @@
+# Editor
+Simple editor
